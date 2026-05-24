@@ -26,7 +26,7 @@ This application uses **Computer Vision (OpenCV)** to automatically synchronize 
 ### Step 1: Download the Source Code
 Download this repository as a `.zip` file and extract it to a directory on your computer, or clone it using Git:
 ```bash
-git clone https://github.com/yourusername/Bot-PlayOK.git
+git clone https://github.com/tientho201/PlayOk-BotXiangqi.git
 ```
 
 ### Step 2: Install Python & Libraries
