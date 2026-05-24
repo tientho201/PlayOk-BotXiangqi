@@ -1,0 +1,26 @@
+# Python compiler cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Large compiled chess engines (Users should download these binaries themselves)
+# engine/*.exe
+# engine/pikafish*
+# pikafish.exe
+# pikafish
+
+# Editor and IDE configurations
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp

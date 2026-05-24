@@ -1,0 +1,11 @@
+{
+  "bbox": [
+    556,
+    204,
+    499,
+    513
+  ],
+  "depth": 10,
+  "margin_ratio": 0.0,
+  "engine_path": "engine/fairy-stockfish.exe"
+}
